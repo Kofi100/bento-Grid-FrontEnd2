@@ -18,13 +18,13 @@
 
 @font-face {
   font-family: "DMSans";
-  src: url(./fonts/static/DMSans-Regular.ttf);
+  src: url(/fonts/static/DMSans-Regular.ttf);
 
   /* src: url(../public/fonts/static/DMSans-MediumItalic.ttf); */
 }
 @font-face {
   font-family: "DMSans-Italics";
-  src: url(./fonts/static/DMSans-MediumItalic.ttf);
+  src: url(/fonts/static/DMSans-MediumItalic.ttf);
 }
 
 
