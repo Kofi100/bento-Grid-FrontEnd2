@@ -29,7 +29,7 @@ function App() {
         
         </div>
         <div className='item7'>
-          <p><p className='titleBigger'>{'>'}56% </p>faster audience growth</p>
+          <p><span className='titleBigger'>{'>'}56%</span><br />faster audience growth</p>
           <img src="./images/illustration-audience-growth.webp" alt="" />
         </div>
         <div className='item8'>

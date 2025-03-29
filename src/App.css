@@ -59,6 +59,7 @@ font-weight: 400;
   margin: auto;
   gap: 10px;
   div{
+    border-radius:.5rem ;
     /* background-color: aquamarine; */
     /* display: grid;
     align-content: center;
@@ -289,6 +290,9 @@ p{
     justify-content: left;
     padding-left:1rem;
     padding-bottom: 2rem;
+    .titleBigger{
+      font-weight: bolder;
+    }
 
   }
   .item8{
